@@ -7,4 +7,7 @@
 # @example
 #   include sl::install
 class sl::install {
+  package { 'sl':
+    ensure => latest,
+  }
 }

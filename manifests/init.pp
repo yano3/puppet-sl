@@ -7,4 +7,5 @@
 # @example
 #   include sl
 class sl {
+  include sl::install
 }
