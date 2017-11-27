@@ -1,4 +1,4 @@
-# SL Puppet Module
+# SL Puppet Module [![Puppet Forge](https://img.shields.io/puppetforge/v/yano3/sl.svg?style=flat-square)](https://forge.puppet.com/yano3/sl)
 
 #### Table of Contents
 
