@@ -21,5 +21,11 @@ jobs:
 
       # run tests!
       - run:
-          name: run tests
+          name: RuboCop
+          command: bundle exec rake rubocop
+      - run:
+          name: Syntax lint
+          command: bundle exec rake syntax lint
+      - run:
+          name: Metadata lint
           command: bundle exec rake metadata_lint

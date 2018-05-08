@@ -1,4 +1,7 @@
-# SL Puppet Module [![Puppet Forge](https://img.shields.io/puppetforge/v/yano3/sl.svg?style=flat-square)](https://forge.puppet.com/yano3/sl)
+# SL Puppet Module
+
+[![CircleCI](https://circleci.com/gh/yano3/puppet-sl.svg?style=shield)](https://circleci.com/gh/yano3/puppet-sl)
+[![Puppet Forge](https://img.shields.io/puppetforge/v/yano3/sl.svg?style=flat-square)](https://forge.puppet.com/yano3/sl)
 
 #### Table of Contents
 
